@@ -1,2 +1,2 @@
 # Myownorg
-Testing WebApplication for .Net
+Testing WebApplication for .NetCore
